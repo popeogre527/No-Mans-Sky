@@ -237,3 +237,6 @@ No Man's Sky is available as a full free version, providing all features and upd
 ---
 
 Dive into the adventure of a lifetime! Download No Man's Sky today and start exploring the cosmos.
+
+---
+**Last updated:** 2026-09-18 10:44:46 UTC
